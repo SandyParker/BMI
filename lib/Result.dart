@@ -9,6 +9,7 @@ class Results extends StatelessWidget {
   late String result;
   late String BMI;
   late String inter;
+  late int ball;
 
   @override
   Widget build(BuildContext context) {
